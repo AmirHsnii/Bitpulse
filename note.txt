@@ -1,0 +1,29 @@
+تغییرات ui باید روی سایر صفحات باید ایجاد بشه : OK
+تایم بندی باید بازه هاش کوتاه تر بشه: OK
+تابع برای پاک کردن اخبار تکراری در کراول های بعدی در منبع یکسان: Ok
+ایجاد چیجینیشن برای صفحه اخبار: OK
+تکیمل ui و ریپاسنیو کردن دکمه ها: OK
+چپ نویس کردن عناوین انلگلیسی در کاردها: OK
+قابلیت جستجو پیشرفته
+لوگو برای سایت:OK
+یک گیف یا یه چیزی مثل این برای هیرو سکشن: OK
+پاک کردن دیتاهای 10 روز پیش از دیتابیس: OK
+چک کردن کراول در زمان واحد برای منابع مختلف: OK
+
+
+Phase 2:
+
+Add Crawling Website Without Rss Feed
+
+phase 3:
+
+Show News Card On web Farsi With AI
+
+Phase 4:
+
+Translate Full News With Tone of Voice with AI
+
+phase 5:
+
+Detect Trend Keywords And Show Them on a Page For 24 Hours Later
+
